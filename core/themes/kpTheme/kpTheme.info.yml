@@ -1,0 +1,14 @@
+name: kpTheme
+type: theme
+base theme: classy
+Description: "Un thème responsive pour Drupal 8"
+package: custom
+core: 8.x
+
+regions:
+    headline: headline
+    header: header
+    main: main
+    content: content
+    sidebar: sidebar
+    footer: footer
